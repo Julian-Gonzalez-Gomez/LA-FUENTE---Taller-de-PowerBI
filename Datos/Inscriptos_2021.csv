@@ -1,0 +1,9 @@
+ID_Estudiante,Nombre_Estudiante,ID_Facultad,Materias_Inscriptas,Materias_Aprobadas,Anio_Ingreso
+EST-101,Ignacio Vega,FAC-02,2,1,2021
+EST-102,Delfina Peralta,FAC-01,1,1,2021
+EST-103,Bruno Giménez,FAC-04,1,1,2021
+EST-104,Felipe Roldán,FAC-02,2,2,2021
+EST-105,Nicolás Díaz,FAC-03,3,0,2021
+EST-106,Ignacio Vega,FAC-03,2,1,2021
+EST-107,Nicolás Silva,FAC-02,1,1,2021
+EST-108,Camila Navarro,FAC-02,3,2,2021

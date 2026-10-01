@@ -1,0 +1,6 @@
+ID_Estudiante,Nombre_Estudiante,ID_Facultad,Materias_Inscriptas,Materias_Aprobadas,Anio_Ingreso
+EST-401,Santino Roldán,FAC-01,1,0,2026
+EST-402,Mia Domínguez,FAC-02,3,2,2026
+EST-403,Bautista Arias,FAC-03,3,1,2026
+EST-404,Lola Godoy,FAC-04,3,1,2026
+EST-405,Felipe Sosa,FAC-01,2,2,2026

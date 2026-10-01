@@ -1,0 +1,13 @@
+ID_Estudiante,Nombre_Estudiante,ID_Facultad,Materias_Inscriptas,Materias_Aprobadas,Anio_Ingreso
+EST-201,Paula Pérez,FAC-01,1,0,2022
+EST-202,Thiago Arias,FAC-02,2,1,2022
+EST-203,Juan Silva,FAC-03,3,3,2022
+EST-204,Rocío Navarro,FAC-04,1,1,2022
+EST-205,Nicolás Rodríguez,FAC-02,3,3,2022
+EST-206,Benjamín Rodríguez,FAC-01,2,2,2022
+EST-207,Lola Fernández,FAC-01,3,1,2022
+EST-208,Rocío Torres,FAC-02,1,1,2022
+EST-209,Lautaro Fernández,FAC-02,1,1,2022
+EST-210,Joaquín Martínez,FAC-01,2,2,2022
+EST-211,Camila Acosta,FAC-03,3,3,2022
+EST-212,Lola Díaz,FAC-01,3,0,2022

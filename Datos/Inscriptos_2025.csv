@@ -1,0 +1,6 @@
+ID_Estudiante,Nombre_Estudiante,ID_Facultad,Materias_Inscriptas,Materias_Aprobadas,Anio_Ingreso
+EST-301,Enzo Navarro,FAC-01,2,1,2025
+EST-302,Martina Vega,FAC-02,2,0,2025
+EST-303,Thiago Ferreyra,FAC-03,1,1,2025
+EST-304,Delfina Castro,FAC-04,2,1,2025
+EST-305,Lauro Medina,FAC-01,1,1,2025

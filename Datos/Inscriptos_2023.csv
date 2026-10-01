@@ -1,0 +1,17 @@
+ID_Estudiante,Nombre_Estudiante,ID_Facultad,Materias_Inscriptas,Materias_Aprobadas,Anio_Ingreso
+EST-301,Benjamín Rodríguez,FAC-01,2,2,2023
+EST-302,Lucas Arias,FAC-03,3,3,2023
+EST-303,Rocío Silva,FAC-01,2,1,2023
+EST-304,Mateo Díaz,FAC-04,2,2,2023
+EST-305,Florencia Martínez,FAC-03,2,0,2023
+EST-306,Delfina Roldán,FAC-03,1,0,2023
+EST-307,Facundo Álvarez,FAC-01,1,1,2023
+EST-308,Esteban Martínez,FAC-01,3,1,2023
+EST-309,Florencia Vega,FAC-02,1,0,2023
+EST-310,Milagros Moreno,FAC-03,3,0,2023
+EST-311,Bautista López,FAC-03,1,0,2023
+EST-312,Camila Pérez,FAC-03,3,0,2023
+EST-313,Ramiro Castro,FAC-02,3,1,2023
+EST-314,Carlos Ferreyra,FAC-01,3,1,2023
+EST-315,Lucía Díaz,FAC-03,1,0,2023
+EST-316,Gonzalo Martínez,FAC-01,2,2,2023
